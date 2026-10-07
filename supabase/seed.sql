@@ -1,0 +1,1 @@
+-- Datos demo solo para desarrollo local. Nunca se aplican al proyecto cloud.
